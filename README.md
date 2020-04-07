@@ -2,4 +2,4 @@
 7th grade's documents!
 
 ## Copyright
-Copyright (c) School +.
+Copyright (c) Skool +.
