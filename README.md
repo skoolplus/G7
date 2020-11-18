@@ -1,5 +1,6 @@
-# 7th GRADE
-7th grade's documents!
+# G7
 
-## Copyright
-Copyright (c) Skool +.
+## License
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
